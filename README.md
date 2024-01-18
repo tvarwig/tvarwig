@@ -6,4 +6,4 @@ Beyond my technical endeavors, I have a passion for assisting small businesses. 
 
 Collaboration is the cornerstone of progress. I firmly believe that by pooling our expertise and resources, we can achieve unparalleled heights. I warmly invite you to collaborate, share, and join me in this exhilarating journey of discovery, innovation, and growth in the ever-evolving world of software development.
 
-Follow me on [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=trevor-varwig)
+Follow me on [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=trevor-varwig)
